@@ -31,6 +31,19 @@ CSS
 
 1. m10-10-10-10 -  This will be expanded to:   margin: 10px 10px 10px 10px;
 
+### 2.What is CDN ? Why do we use it ?
+
+CDN (Content Delivery Network) refers to geographically distributed group of servers which work together to provide fast delivery of internet content.
+They provide cached internet content from a network location closest to a user to speed up its delivery.
+
+-at fundamental level CDN brings content closer to the user by deploying hundreds of servers all around the world. This server locations are called Point of Presence (PoPs). A server inside a PoP is commonly called Edge Server. Having many PoPs around the world ensures that any user can reach a fast edge server close to them.
+
+### 3.Difference between library and framework ?
+
+Library - collection of pre-defined helper functions, objects, classes, modules that can be used in code to boost the development. By using a library, you can control the flow of the application and call the library. Eg: React, JQuery, Lodash
+
+Framework - Foundation upon which applications are built. In contrast, when you use a framework, the control is inverted, i.e., the framework controls the flow and calls your code. Eg: Node JS, Angular, Spring
+
 
 
 
